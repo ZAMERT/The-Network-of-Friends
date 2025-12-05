@@ -36,7 +36,7 @@ This project uses several publicly available datasets from Kaggle.
 - Used to enhance popularity and interaction analysis. 
 - URLs: https://www.kaggle.com/datasets/bcruise/friends-episode-data/data
 
-**Note: **
+**Note:**
 Only some small sample scripts are included in this repository. 
 
 --------------------
